@@ -1,0 +1,11 @@
+C:\Users\Dante\source\repos\ProjLojaGames\Dados\bin\Debug\Dados.dll
+C:\Users\Dante\source\repos\ProjLojaGames\Dados\bin\Debug\Dados.pdb
+C:\Users\Dante\source\repos\ProjLojaGames\Dados\bin\Debug\Model.dll
+C:\Users\Dante\source\repos\ProjLojaGames\Dados\bin\Debug\Utils.dll
+C:\Users\Dante\source\repos\ProjLojaGames\Dados\bin\Debug\Model.pdb
+C:\Users\Dante\source\repos\ProjLojaGames\Dados\bin\Debug\Utils.pdb
+C:\Users\Dante\source\repos\ProjLojaGames\Dados\obj\Debug\Dados.csprojAssemblyReference.cache
+C:\Users\Dante\source\repos\ProjLojaGames\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\Dante\source\repos\ProjLojaGames\Dados\obj\Debug\Dados.csproj.CopyComplete
+C:\Users\Dante\source\repos\ProjLojaGames\Dados\obj\Debug\Dados.dll
+C:\Users\Dante\source\repos\ProjLojaGames\Dados\obj\Debug\Dados.pdb

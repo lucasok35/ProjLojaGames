@@ -12,8 +12,12 @@ namespace Model
 
         public int IdPlataforma { get; set; }
         public string Descricao { get; set; }
-        
 
-        #endregion 
+        #endregion
+
+        public override string ToString()
+        {
+            return this.Descricao;
+        }
     }
 }

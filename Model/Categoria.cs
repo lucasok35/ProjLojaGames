@@ -13,5 +13,10 @@ namespace Model
         public int IdCategoria { get; set; }
         public string Descricao { get; set; }
         #endregion
+
+        public override string ToString()
+        {
+            return this.Descricao;
+        }
     }
 }
